@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Desktop/Led_deviceDriver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/pi/Desktop/Led_deviceDriver/Module.symvers -T /home/pi/Desktop/Led_deviceDriver/modules.order -i Module.symvers -e 

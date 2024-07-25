@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Desktop/Led_deviceDriver/Led.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/pi/Desktop/Led_deviceDriver/Led.ko /home/pi/Desktop/Led_deviceDriver/Led.o /home/pi/Desktop/Led_deviceDriver/Led.mod.o;  true

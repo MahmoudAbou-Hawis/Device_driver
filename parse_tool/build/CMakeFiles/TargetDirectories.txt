@@ -1,0 +1,3 @@
+/home/pi/Desktop/parse_tool/build/CMakeFiles/parser_tool.dir
+/home/pi/Desktop/parse_tool/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/parse_tool/build/CMakeFiles/rebuild_cache.dir
